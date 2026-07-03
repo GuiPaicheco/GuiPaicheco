@@ -1,7 +1,6 @@
 <div align="center">
 
 # Guilherme Paicheco
-
 <img src="https://github.com/GuiPaicheco.png" width="180" alt="Guilherme Paicheco"/>
 
 ### Software Engineer
