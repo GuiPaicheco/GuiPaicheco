@@ -6,7 +6,7 @@
 
 > **Building software with purpose.**
 
-Computer Science Student • Public Servant • Brazil 🇧🇷
+Student enrolled in a Bachelor's degree program in Computer Science • Student enrolled in a higher education course in Systems Analysis and Development • Public Servant in Betim, MG - Brazil
 
 <br>
 
